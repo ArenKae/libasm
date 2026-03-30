@@ -1,7 +1,7 @@
 # libasm
 
 <p align="center">
-  <img src="https://github.com/ArenKae/ArenKae/blob/main/42%20badges/libqs;.png" alt="libasm badge"/>
+  <img src="https://github.com/ArenKae/ArenKae/blob/main/42%20badges/libasm.png" alt="libasm badge"/>
 </p>
 
 ## Intro
